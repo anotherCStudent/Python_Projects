@@ -1,0 +1,3 @@
+When running the Draw Seven Program, drawSevenMain.py needs to be in the same location as drawSeven.py
+
+I also know its confusing but run drawSeven.py not drawSevenMain.py as drawSevenMain.py is what holds the majority of the main code while drawSeven.py is the main code/program itself.
